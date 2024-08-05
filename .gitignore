@@ -1,0 +1,16 @@
+# Ignorer les fichiers temporaires
+*.tmp
+
+# Ignorer le dossier node_modules
+node_modules/
+
+# Ignorer les fichiers de configuration spécifiques à l'IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers spécifiques de l'extension Chrome Slack Deleter
+ALL- slack deleter extension chrome.pem
+slack deleter extension chrome.crx
